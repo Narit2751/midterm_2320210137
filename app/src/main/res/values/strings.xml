@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">30 days of Gacha Luck Training</string>
+
+    <string name="ritual_title_1">Single-Pull Trick</string>
+    <string name="ritual_title_2">Seed Reset</string>
+    <string name="ritual_title_3">Sacrificial Pulling</string>
+    <string name="ritual_title_4">Server Reset Rush</string>
+    <string name="ritual_title_5">Maintenance Window Drop</string>
+    <string name="ritual_title_6">Banner Edge Timing</string>
+    <string name="ritual_title_7">Soft Pity Edge-Walking</string>
+    <string name="ritual_title_8">Location-Based Pulling</string>
+    <string name="ritual_title_9">Character Catalyst</string>
+    <string name="ritual_title_10">Audio Catalyst</string>
+    <string name="ritual_title_11">The Offline Method</string>
+    <string name="ritual_title_12">Desire Sensor Trick</string>
+    <string name="ritual_title_13">The Nose Tap</string>
+    <string name="ritual_title_14">Friend Luck Theft</string>
+    <string name="ritual_title_15">Summoning Circle</string>
+    <string name="ritual_title_16">Weapon Banner Sacrifice</string>
+    <string name="ritual_title_17">Throne Room Luck</string>
+    <string name="ritual_title_18">Witching Hour Drop</string>
+    <string name="ritual_title_19">Inventory Purge</string>
+    <string name="ritual_title_20">Ticket Warm-up</string>
+    <string name="ritual_title_21">Instant Skip</string>
+    <string name="ritual_title_22">Slow Reveal</string>
+    <string name="ritual_title_23">Wallet Bluff</string>
+    <string name="ritual_title_24">Starter Skin Humility</string>
+    <string name="ritual_title_25">Lucky Channel 777</string>
+    <string name="ritual_title_26">Voice Line Spam</string>
+    <string name="ritual_title_27">Double Tap Technique</string>
+    <string name="ritual_title_28">Guild Chat Blessing</string>
+    <string name="ritual_title_29">Upside-Down Flip</string>
+    <string name="ritual_title_30">The Zero-Gem Stand</string>
+
+    <string name="ritual_description_1">Pull one by one instead of using 10x pulls to stop immediately upon hitting the soft pity range.</string>
+    <string name="ritual_description_2">Fully restart the game client and clear the cache to reset the local session seed before pulling.</string>
+    <string name="ritual_description_3">Roll on a low-rarity, standard, or free daily banner first to dump \'bad rolls\' before switching to the rate-up banner.</string>
+    <string name="ritual_description_4">Perform your pulls within the first 60 seconds of the daily server reset.</string>
+    <string name="ritual_description_5">Pull immediately after a game update or maintenance finishes when servers come back online.</string>
+    <string name="ritual_description_6">Pull during the final 10 minutes before a banner expires to catch last-second luck.</string>
+    <string name="ritual_description_7">Track exact pull counts and stop precisely one pull before soft pity starts, then switch to single pulls.</string>
+    <string name="ritual_description_8">Move your in-game main character to a high, scenic, or lore-relevant spot associated with the unit before pulling.</string>
+    <string name="ritual_description_9">Put the character\'s best friend, rival, or ideal support unit into your main active party.</string>
+    <string name="ritual_description_10">Play the character\'s official theme song or character trailer soundtrack on repeat while summoning.</string>
+    <string name="ritual_description_11">Disconnect Wi-Fi, press the 10x pull button, let the network error pop up, reconnect, and load into the animation.</string>
+    <string name="ritual_description_12">Cover your eyes or turn your phone screen down during the animation so the game doesn\'t detect what you want.</string>
+    <string name="ritual_description_13">Tap the pull button using your nose or elbow instead of your fingers for a touch of unearned luck.</string>
+    <string name="ritual_description_14">Have a friend who has famously good luck tap the summon button on your phone for you.</string>
+    <string name="ritual_description_15">Draw or display a physical summoning circle under your phone screen before pressing the pull button.</string>
+    <string name="ritual_description_16">Intentionally pull once on the weapon or equipment banner to pay tribute to the gacha system first.</string>
+    <string name="ritual_description_17">Perform your multi-pulls while sitting on the toilet for peak casual gacha luck.</string>
+    <string name="ritual_description_18">Pull at exactly 3:00 AM local time, the universal witching hour for rare drops.</string>
+    <string name="ritual_description_19">Sell or upgrade low-rarity fodder items to free up inventory space and clear out negative energy.</string>
+    <string name="ritual_description_20">Spend exactly 3 single tickets before committing any of your hard-earned premium gems.</string>
+    <string name="ritual_description_21">Instantly skip the pull animation as fast as possible to catch the game engine off guard.</string>
+    <string name="ritual_description_22">Tap through every single item manually without skipping to build maximum suspense.</string>
+    <string name="ritual_description_23">Open the top-up shop screen to pretend you are about to buy microtransactions, then immediately go back to pull.</string>
+    <string name="ritual_description_24">Equip your main character in their default starter skin to demonstrate humility before pulling.</string>
+    <string name="ritual_description_25">Switch your in-game chat room to channel 7, 77, or 777 before tapping the summon button.</string>
+    <string name="ritual_description_26">Play the targeted character\'s preview voice lines 5 times in a row right before opening the banner.</string>
+    <string name="ritual_description_27">Quickly double-tap the multi-pull button to trick the UI into processing double rare rewards.</string>
+    <string name="ritual_description_28">Send a high-risk message in guild chat right before pulling to lock in community pressure.</string>
+    <string name="ritual_description_29">Turn your phone completely upside down until the entire sound effect finishes playing.</string>
+    <string name="ritual_description_30">Spend every single pull down to exactly 0 currency to show absolute, unyielding dedication.</string>
+
+    <string name="day_number">Day %d</string>
+    <string name="about">Method:</string>
+    <string name="expand_button_content_description">See more or less information about methods.</string>
+
+    <string name="search_training_days">Search training days...</string>
+
+    <string name="filter_all">All</string>
+
+    <string name="filter_completed">
+        Completed
+    </string>
+
+    <string name="filter_incomplete">
+        Incomplete
+    </string>
+
+    <string name="progress_completed">
+        Progress: %1$d / %2$d Completed
+    </string>
+
+    <string name="expand">
+        Expand
+    </string>
+
+    <string name="collapse">
+        Collapse
+    </string>
+</resources>
